@@ -68,3 +68,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Instructor : Kouyate Karim (karim.kouyate@gomycode.co)
+Hackerspace : Abidjan
+Student's name : 
+
+1- Dakoury Didier
+2- Hoba Christian
+3- Doumbia Aziz Ibrahim
+4- Adou Levy Alfred
+5- Eric Boni
+6- Sylla Moustapha
+7- Krouma Mamadou
+8-N'da Patrick Ouffouet 
+9- Hino Guy
+10- Dongui Dagnogo 
+
+
+Problem : This is the list of learners that I have trained but who are not added to the number of my certified learners, on their certificates are the names of other instructors.
